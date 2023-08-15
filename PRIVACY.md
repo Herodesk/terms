@@ -20,7 +20,7 @@ We may collect the following types of information:
 
 **Usage Data:** We may collect information about how you interact with the Service, such as log files, IP addresses, browser types, device information, and pages visited.
 
-# How We Use Your Information
+## How We Use Your Information
 We use the collected information for the following purposes:
 
 **Provision of Services:** We use your Personal Information and Customer Data to provide you with access to our Services and to fulfil your subscription.
@@ -31,10 +31,10 @@ We use the collected information for the following purposes:
 
 **Legal Compliance:** In certain cases, we may be required to use and retain your Personal Information to comply with legal obligations or to protect our rights and interests.
 
-# Data Retention
+## Data Retention
 We will retain your Personal Information and Customer Data only for as long as necessary to provide you with the Services and to fulfil the purposes outlined in this Privacy Policy. Once data is no longer needed, we will securely delete or anonymize it.
 
-# Data Sharing and Disclosure
+## Data Sharing and Disclosure
 We will under no circumstances sell, rent, or share your Personal Information with any third parties, except in the following circumstances:
 
 **Service Providers:** We may engage third-party service providers to assist with software maintenance, payment processing, data storage, and other necessary services to enable us to deliver our Services to you. These providers are bound by confidentiality obligations and are prohibited from using your Personal Information for any other purpose. For the avoidance of doubt, any third-party service providers we use, who are based in the US, are actively listed in the Data Privacy Framework Program in accordance with the new EU-U.S. Data Protection Framework.
@@ -43,21 +43,21 @@ We will under no circumstances sell, rent, or share your Personal Information wi
 
 We will not use your name or brand in our marketing materials unless we have your explicit permission.
 
-# Data Security
+## Data Security
 We take reasonable measures to protect your Personal Information and Customer Data from unauthorized access, loss, misuse, alteration, or destruction. Our security measures are both of technical and organizational nature, and these include encryption of data sent via the public Internet, encryption of sensitive data stored in our databases and backup procedures.
 
 While all these measurements are in place, please understand that it is no guarantee as no data transmission over the Internet or storage system can be guaranteed to be 100% secure.
 
-# Your Rights
+## Your Rights
 You have the right to access, limit, correct, update, and delete your Personal Information and Customer Data. If you wish to exercise any of these rights, please contact us using the contact information provided below. You also have the right to complain to the Danish Data Protection Agency regarding the processing of your Personal Information.
 
-# Changes to this Privacy Policy
+## Changes to this Privacy Policy
 We may update this Privacy Policy from time to time to reflect changes in our data practices. We will notify you of any material changes by posting the updated Privacy Policy on our website and updating the effective date.
 
 If you have any questions regarding our Privacy Policy, please contact us via support@herodesk.io.
 
 
-# Sub-processors
+## Sub-processors
 By consenting to this Privacy Policy, you acknowledge and accept that we use the following sub-processors when providing our Services:
 
 
